@@ -1,0 +1,9 @@
+.filter {
+    height: 3.5rem;
+    width: 24rem;
+    outline: none;
+    border-radius: 0.5rem;
+    border: white 2px solid;
+    transition: border 0.5s;
+    padding: 1rem;
+  }
